@@ -1,6 +1,6 @@
 PROG = transformers_ocr
 SHORT_PROG = trocr
-PREFIX ?= /usr
+PREFIX ?= /usr/local
 
 VPATH = src
 
